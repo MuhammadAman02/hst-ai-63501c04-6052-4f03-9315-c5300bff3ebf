@@ -10,5 +10,9 @@
   {
     "role": "ai_message",
     "content": "Certainly! I understand you want to create a PDF viewer application. I'll modify the existing code to implement a basic PDF viewer with the features we discussed earlier. Let's update the necessary files to create a functional PDF viewer.\n\n\n\nNow, let's create the PDFViewer component:\n\n\n\nNow, let's create"
+  },
+  {
+    "role": "user",
+    "content": "The deployment failed with the following error from Fly.io:\n\n[ERROR] Deployment failed for 'hst-ai-63501c04-6052-4f03-9315-c5300bff3ebf'. Exit code: 1\n\nPlease fix the issue."
   }
 ]
